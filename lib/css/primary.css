@@ -1,0 +1,9 @@
+.link {
+    font-size: .5em !important;
+    display: block;
+}
+
+.link-list li {
+    font-size: .5em;
+    padding-bottom: .5em
+}
