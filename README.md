@@ -1,4 +1,4 @@
-# Q: How Can Agencies Improve Their Digital Products? 
+# Q: As an Agency, How Can We Improve Our Digital Products? 
 
 # A: Improve Our Digital Process.
 
